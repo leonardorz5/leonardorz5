@@ -1,4 +1,4 @@
-<h2 align="center">Olá, Bem vindo a minha home.<br>Sou Leonardo Lima, estudante de ciências da computação</h2>
+<h2 align="center">Olá, Bem vindo a minha home.<br>Sou Leonardo Lima, e esse é o meu repositório particular!</h2>
 
 ###
 
